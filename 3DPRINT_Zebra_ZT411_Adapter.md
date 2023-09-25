@@ -2,8 +2,9 @@
 
 ![3-inch vs 1-inch](https://github.com/markgodiy/SideProjects/assets/101022486/4574cc43-cd6e-46e4-bfb8-fba211ce7cb2)
 
-
 ![ZT411 Interior](https://github.com/markgodiy/SideProjects/assets/101022486/27dd97d7-ba6e-43d8-9a84-12b65d9f8ee7)
+
+![Problem](https://github.com/markgodiy/SideProjects/assets/101022486/2b064405-318b-44b5-bb82-c3d9b2c44d5a)
 
 ![3D Design](https://github.com/markgodiy/SideProjects/assets/101022486/1bcfe9e3-6d5e-4dab-a22b-71516e621a87)
 
