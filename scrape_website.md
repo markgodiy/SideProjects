@@ -26,8 +26,11 @@ $directoryhtml = $response.Content
 
 # Export to html file
 $directoryhtml | Out-File -FilePath "C:\temp\directory.html"
+
 ```
 
+Example: 
+[Example HTML file](Extras/stone_page1.html)
 ## Parse through html file
 
 ```python
@@ -86,7 +89,12 @@ with open(output_file, 'w') as file:
     file.write(json_data)
 
 print("JSON data written to", output_file)
+
 ```
+
+
+[Example JSON file](Extras/directoryoutfile.json)
+
 
 ## import json file into powershell
 
@@ -109,3 +117,4 @@ Directory
 PowerShell
 
 ![Alt text](image.png)
+
